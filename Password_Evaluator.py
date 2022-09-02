@@ -1,6 +1,6 @@
 '''
 Project 2 - Password Evaluator - Spring 2021
-Author: Matthias Cannon matthiasc@vt.edu
+Author: Matthias C
 
 Passwod Evaluator
 
